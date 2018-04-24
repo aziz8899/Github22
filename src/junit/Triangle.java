@@ -2,7 +2,7 @@ package junit;
 
 public class Triangle {
 
-    private int sideA;
+    private int sideeA;
     private int sideB;
     private int sideC;
 
